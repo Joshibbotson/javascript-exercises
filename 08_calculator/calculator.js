@@ -38,7 +38,7 @@ else {
   return num;}
 };
 
-factorial(5)
+
 
 // Do not edit below this line
 module.exports = {
